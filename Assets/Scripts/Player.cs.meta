@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a84b35bdec8e8a41b1e71229174a4c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerRb: {instanceID: 0}
+  - splitPrefeb: {fileID: 307087279769171254, guid: c0f113038a5d60249ba5c003d2c76a87,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
